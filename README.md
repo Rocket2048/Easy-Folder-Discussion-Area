@@ -5,7 +5,8 @@
 Files Assistant App Seminar, welcome to comment<br />
 ファイル助手アプリディスカッションエリアで、ご意見をどうぞ<br />
 
-# Download URL
+# Download URL (iOS)
+
 https://itunes.apple.com/app/id1296160542?mt=8
 
 # App Icon
